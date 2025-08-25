@@ -12,7 +12,7 @@
 2. Training versus Testing (Chapter 2 from [1])
 
 ### Videos
-1. El problema de aprendizaje de máquina [Youtube-Lab](https://youtu.be/DIlfHntZPv8)
+1. El problema de aprendizaje de máquina [Youtube-Lab](https://youtu.be/DIlfHntZPv8) [Slides](https://drive.google.com/file/d/1SJJd7TtqnX_Dkq60fpN8MY5s_R_G37Xm/view?usp=sharing)
 2. Teoría de Aprendizaje Estadístico I [Youtube-Lab](https://youtu.be/zUawHEGadAA)
 3. Teoría de Aprendizaje Estadístico II [Youtube-Lab](https://youtu.be/3U3XKN0opXA)
 
@@ -92,7 +92,7 @@ _References:_ 
 ## Attention Mechanisms 
 
 _References:_
-[1] Vaswani et al., “Attention Is All You Need.” 
+[1] Vaswani et al., “Attention Is All You Need.”
 [2] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
 [3] [Murphy, Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html).
 

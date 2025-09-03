@@ -8,8 +8,8 @@
 5. VC-Dimension  
 
 ### Readings
-1. The Learning Problem (Chapter 1 from [1])
-2. Training versus Testing (Chapter 2 from [1])
+1. The Learning Problem (Chapter 1 from [2])
+2. Training versus Testing (Chapter 2 from [2])
 
 ### Videos
 1. El problema de aprendizaje de máquina [Youtube-Lab](https://youtu.be/DIlfHntZPv8) [Slides](https://drive.google.com/file/d/1SJJd7TtqnX_Dkq60fpN8MY5s_R_G37Xm/view?usp=sharing)
@@ -17,7 +17,6 @@
 3. Teoría de Aprendizaje Estadístico II [Youtube-Lab](https://youtu.be/3U3XKN0opXA)
 
 ### Code Projects
-
 
 _References:_ 
 [1] Learning from data ([MOOC](https://work.caltech.edu/telecourse)). Abu Mostafa 
@@ -40,9 +39,17 @@ _References:_
 ---
 ## 2. Working with tensors in Pytorch: Broadcasting, view, etc.
 
+### Readings
+1. Follow pytorch tensors tutorial [1].
+2. Introduction to NumPy (Chapter 2 [3])
+
+### Videos
+1. Introducción a PyTorch [Youtube-Lab](https://youtu.be/Z-pzCitkGUM)
+
 _References:_
-[1] Pytorch documentation. [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html) 
-[2] VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.
+[1] Pytorch [tutorials-Tensors](https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html). 
+[2] Pytorch documentation. [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html) 
+[3] VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " 2ed O'Reilly Media, Inc.", 2023.
 
 ---
 ## 4. Computational Graphs:

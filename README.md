@@ -41,7 +41,7 @@ _References:_
 
 ### Readings
 1. Follow pytorch tensors tutorial [1].
-2. Introduction to NumPy (Chapter 2 [3])
+2. Introduction to NumPy (Part II [3])
 
 ### Videos
 1. Introducción a PyTorch [Youtube-Lab](https://youtu.be/Z-pzCitkGUM)

@@ -1,6 +1,7 @@
 # DeepLearningCourse
 
 ## 1. Statistical Learning Theory
+
 1. The Learning Problem
 2. Hoeffding Inequality
 3. Hoeffding Inequality Intuition
@@ -8,26 +9,29 @@
 5. VC-Dimension  
 
 ### Readings
+
 1. The Learning Problem (Chapter 1 from [2])
 2. Training versus Testing (Chapter 2 from [2])
 
 ### Videos
+
 1. El problema de aprendizaje de máquina [Youtube-Lab](https://youtu.be/DIlfHntZPv8) [Slides](https://drive.google.com/file/d/1SJJd7TtqnX_Dkq60fpN8MY5s_R_G37Xm/view?usp=sharing)
 2. Teoría de Aprendizaje Estadístico I [Youtube-Lab](https://youtu.be/zUawHEGadAA)
 3. Teoría de Aprendizaje Estadístico II [Youtube-Lab](https://youtu.be/3U3XKN0opXA)
 
 ### Code Projects
 
-_References:_ 
+_References:_
 [1] Learning from data ([MOOC](https://work.caltech.edu/telecourse)). Abu Mostafa 
 [2] Abu-Mostafa, Yaser S., Malik Magdon-Ismail, and Hsuan-Tien Lin. _Learning from Data_. AMLBook, 2012.
 
-
 ## 1.1 Statistical Learning Theory II (Optional)
+
 1. Bound of the Growth Function
 2. Proof of the VC-Dimension Bound
 
 ### Readings
+
 1. Proof of the Bound of the Growth Function (Chapter 2 from [1])
 2. Proof of the VC-Dimension Bound (Appendix from [1])
 
@@ -37,14 +41,17 @@ _References:_
 [1] Abu-Mostafa, Yaser S., Malik Magdon-Ismail, and Hsuan-Tien Lin. _Learning from Data_. AMLBook, 2012.
 
 ---
+
 ## 2. Working with tensors in Pytorch: Broadcasting, view, etc.
 
 ### Readings
+
 1. Follow pytorch tensors tutorial [1].
 2. Introduction to NumPy (Part II [3])
 
 ### Videos
-1. Introducción a PyTorch [Youtube-Lab](https://youtu.be/Z-pzCitkGUM)
+
+1. Introducción a PyTorch [Youtube-Lab](https://youtu.be/Z-pzCitkGUM) [Slides](https://drive.google.com/file/d/1PLl3L--nQZYoGah3oJ9Ohg1DOl2BChDu/view?usp=sharing)
 
 _References:_
 [1] Pytorch [tutorials-Tensors](https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html). 

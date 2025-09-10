@@ -58,9 +58,25 @@ _References:_
 [2] Pytorch documentation. [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html) 
 [3] VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " 2ed O'Reilly Media, Inc.", 2023.
 
----
+## 3.1 Stochastic Gradient Descent
+
+1. Gradient descent
+2. Stochastic gradient descent
+3. Momentum
+4. Adam
+
+### Readings
+
+1. Fitting Models (Chapter 6 [1])[Youtube-Lab](https://youtu.be/jiRW12V1NwA)[Slides](https://udlbook.github.io/udlbook/)
+2. Gradient Descent (Chapter 7 [2])
+
+_References:_
+[1] Prince, Simon J.D. _Understanding Deep Learning_. The MIT Press, 2023. [http://udlbook.com](http://udlbook.com).
+[2] Bishop, Christopher Michael, and Hugh Bishop. _Deep Learning - Foundations and Concepts_. 1st ed. Edited by Springer Cham. 2023. [https://doi.org/10.1007/978-3-031-45468-4](https://doi.org/10.1007/978-3-031-45468-4).
+
 ## 4. Computational Graphs:
-- Forward Computation    
+
+- Forward Computation
 - Differentiation Review    
 
 _References:_

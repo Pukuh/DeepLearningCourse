@@ -55,7 +55,7 @@ _References:_
 
 _References:_
 [1] Pytorch [tutorials-Tensors](https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html). 
-[2] Pytorch documentation. [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html) 
+[2] Pytorch documentation. [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
 [3] VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " 2ed O'Reilly Media, Inc.", 2023.
 
 ## 3.1 Stochastic Gradient Descent
@@ -73,6 +73,20 @@ _References:_
 _References:_
 [1] Prince, Simon J.D. _Understanding Deep Learning_. The MIT Press, 2023. [http://udlbook.com](http://udlbook.com).
 [2] Bishop, Christopher Michael, and Hugh Bishop. _Deep Learning - Foundations and Concepts_. 1st ed. Edited by Springer Cham. 2023. [https://doi.org/10.1007/978-3-031-45468-4](https://doi.org/10.1007/978-3-031-45468-4).
+
+## 3.2 Derivatives in Several Variables
+
+1. Differentiation Review
+
+### Readings
+
+1. Gradients and Initialization (Chapter 7 [1])
+2. Derivatives in several variables (Chapters 1 and 2 [2])
+
+_References:_
+[1] Prince, Simon J.D. _Understanding Deep Learning_. The MIT Press, 2023. [http://udlbook.com](http://udlbook.com).
+[2] Colley, S.J. _Vector Calculus_. 5ed. Pearson, 2021.
+[3] Hubbard and Hubbard, Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach.
 
 ## 4. Computational Graphs:
 

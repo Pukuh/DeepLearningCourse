@@ -88,26 +88,23 @@ _References:_
 [2] Colley, S.J. _Vector Calculus_. 5ed. Pearson, 2021.
 [3] Hubbard and Hubbard, Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach.
 
-## 4. Computational Graphs:
+## 3.3 Computational Graphs
 
-- Forward Computation
-- Differentiation Review    
+1. Forward Computation.
+2. Backward Computation. 
 
-_References:_
-[1] Goodfellow, I, Y Bengio, and A Courville. Deep Learning. The MIT Press. The MIT Press, 2017.
-[2] Hubbard and Hubbard, Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach.
+### Readings
 
----
-## 5. Computational Graphs II:
-- Differentiation Review    
-- Backward Computation (BackProp)     
+1. Back-propagation (Chapter 8 [2])
+2. Deep Feed Forward Networks (Chapter 6 [1])
 
 _References:_ 
 [1] Goodfellow, I, Y Bengio, and A Courville. Deep Learning. The MIT Press. The MIT Press, 2017. 
-[2] Hubbard and Hubbard, Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach.
+[2] Bishop, Christopher Michael, and Hugh Bishop. _Deep Learning - Foundations and Concepts_. 1st ed. Edited by Springer Cham. 2023. [https://doi.org/10.1007/978-3-031-45468-4](https://doi.org/10.1007/978-3-031-45468-4).
 
----
-## 6. Convolutional Neural Networks 
+
+## 6. Convolutional Neural Networks
+
 - Computation of Convolutions 
 
 _References:_
